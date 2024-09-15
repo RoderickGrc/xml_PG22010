@@ -1,0 +1,23 @@
+{
+    "pais": {
+      "departamento": [
+        {
+          "cabecera": "San Salvador",
+          "habitantes": "1,700,000",
+          "altura": "545 MSNM"
+        },
+        {
+          "cabecera": "Santa Ana",
+          "habitantes": "600,000",
+          "altura": "665 MSNM"
+        },
+        {
+          "cabecera": "Santa Tecla",
+          "habitantes": "400,000",
+          "altura": "900 MSNM",
+          "playa": "Costa del Sol",
+          "industria": "Turismo y Comercio"
+        }
+      ]
+    }
+  }

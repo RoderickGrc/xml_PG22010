@@ -1,0 +1,28 @@
+/* pg22010-ejercicio1b.css */
+fichero {
+    background-color: lightyellow;
+    padding: 10px;
+}
+
+ficha {
+    background-color: lightpink;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+nombre, apellido, direccion, telefono, email, web {
+    display: block;
+    color: darkred;
+    margin-bottom: 5px;
+}
+
+documentacion {
+    display: block;
+    color: darkgreen;
+}
+
+dui, isss, afp {
+    font-weight: bold;
+    margin-left: 10px;
+}

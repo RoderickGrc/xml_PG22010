@@ -1,0 +1,34 @@
+{
+    "fichero": {
+      "ficha": [
+        {
+          "ficha": {
+            "nombre": "Antonio",
+            "apellido": "Barbero",
+            "direccion": "Calle de Los Andes, 45"
+          }
+        },
+        {
+          "nombre": "Rodrigo Ernesto",
+          "apellido": "Parada Garciaguirre",
+          "direccion": "Res. Arboledas, 4A, San Salvador",
+          "telefono": 73439283,
+          "email": "rodrigogarciaguirre@gmail.com",
+          "web": "thecrimsonlegacy.com"
+        },
+        {
+          "nombre": "Juan Carlos",
+          "apellido": "Gómez Martínez",
+          "direccion": "Colonia San Benito, Casa 12, San Salvador",
+          "telefono": 70123456,
+          "email": "juancarlosg@example.com",
+          "web": "juancarlosgomez.com",
+          "documentacion": {
+            "dui": "01234567-8",
+            "isss": 987654321,
+            "afp": 11223344
+          }
+        }
+      ]
+    }
+  }

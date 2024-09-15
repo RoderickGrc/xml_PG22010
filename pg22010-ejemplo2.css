@@ -1,0 +1,19 @@
+/* pg22010-ejemplo2.css */
+pais {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+departamento {
+    background-color: lightcoral;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+cabecera, habitantes, altura {
+    display: block;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,25 @@
+/* pg22010-ejercicio2b.css */
+pais {
+    background-color: lightyellow;
+    padding: 10px;
+}
+
+departamento {
+    background-color: lightpink;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+cabecera, habitantes, altura {
+    display: block;
+    color: darkred;
+    margin-bottom: 5px;
+}
+
+playa, industria {
+    display: block;
+    font-weight: bold;
+    color: darkgreen;
+    margin-bottom: 5px;
+}

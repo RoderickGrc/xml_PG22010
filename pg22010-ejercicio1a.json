@@ -1,0 +1,21 @@
+{
+    "fichero": {
+      "ficha": [
+        {
+          "ficha": {
+            "nombre": "Antonio",
+            "apellido": "Barbero",
+            "direccion": "Calle de Los Andes, 45"
+          }
+        },
+        {
+          "nombre": "Rodrigo Ernesto",
+          "apellido": "Parada Garciaguirre",
+          "direccion": "Res. Arboledas, 4A, San Salvador",
+          "telefono": 73439283,
+          "email": "rodrigogarciaguirre@gmail.com",
+          "web": "thecrimsonlegacy.com"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,18 @@
+/* pg22010-ejercicio2a.css */
+pais {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+departamento {
+    background-color: lightgreen;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+cabecera, habitantes, altura {
+    display: block;
+    color: darkblue;
+    margin-bottom: 5px;
+}

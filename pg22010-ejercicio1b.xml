@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="pg22010-ejercicio1b.css" ?>
+<fichero>
+    <ficha id="1" fechaingreso="1/11/2021">
+        <ficha id="1" fechaingreso="1/11/2012">
+        <nombre>Antonio</nombre>
+        <apellido>Barbero</apellido>
+        <direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+    </ficha>
+    
+    <ficha id="2" fechaingreso="15/08/2022">
+        <nombre>Rodrigo Ernesto</nombre>
+        <apellido>Parada Garciaguirre</apellido>
+        <direccion>Res. Arboledas, 4A, San Salvador</direccion>
+        <telefono>73439283</telefono>
+        <email>rodrigogarciaguirre@gmail.com</email>
+        <web>thecrimsonlegacy.com</web>
+    </ficha>
+
+    <ficha id="3" fechaingreso="30/03/2023">
+        <nombre>Juan Carlos</nombre>
+        <apellido>Gómez Martínez</apellido>
+        <direccion>Colonia San Benito, Casa 12, San Salvador</direccion>
+        <telefono>70123456</telefono>
+        <email>juancarlosg@example.com</email>
+        <web>juancarlosgomez.com</web>
+        <documentacion>
+            <dui>01234567-8</dui>
+            <isss>987654321</isss>
+            <afp>11223344</afp>
+        </documentacion>
+    </ficha>
+</fichero>
